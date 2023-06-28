@@ -1,0 +1,2 @@
+Normalizacja pierwszego wektora= [0.437500 0.562500 0.562500]
+Normalizacja drugiego wektora= [0.052632 0.947368 0.947368]
